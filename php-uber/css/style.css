@@ -1,0 +1,48 @@
+/********* start form ************/
+body{
+ background-color: #EEEEEE !important;
+}
+
+.alert {
+    margin-bottom: 10px;
+}
+
+h1 {
+    font-family: 'Raleway', 'sans-serif';
+    padding-top: 30px;
+    font-weight: 900;
+    font-size: 50px;
+    letter-spacing: -1px;
+    color: #757575;
+}
+
+.contact-form{
+    
+    max-width: 450;
+    margin: 20px auto;
+}
+
+.contact-form input,
+.contact-form textarea {
+    margin-bottom: 5px;
+}
+
+.contact-form textarea  {
+    height: 150px !important
+}
+
+.contact-form input {
+
+}
+.contact-form .form-group{
+    margin-bottom: 0;
+    position: relative;
+}
+.contact-form .custom-alert{
+    
+    padding: 5px 10px;
+    display: none;
+}
+
+
+/********* end form ************/
